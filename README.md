@@ -1,0 +1,2 @@
+# PythonDictionary
+ Finnish translator
